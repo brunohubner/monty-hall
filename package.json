@@ -1,6 +1,7 @@
 {
-    "name": "porta-premiada",
+    "name": "monty-hall",
     "private": true,
+    "author": "Bruno Hubner",
     "scripts": {
         "dev": "next dev",
         "build": "next build",
